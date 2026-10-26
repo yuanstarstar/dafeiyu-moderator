@@ -1,6 +1,6 @@
 {
   "name": "@local/dafeiyu-moderator",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "private": true,
   "description": "大肥鱼 AI 房管：同时看直播弹幕和直播画面，像真人一样陪聊、接梗、谢礼物，能 @ 观众提醒，屡教不改才禁言。",
   "type": "module",
@@ -30,7 +30,6 @@
     "lib",
     "python",
     "vendor",
-    "locale",
     "icon.svg",
     "cordis.patch.yml",
     "README.md",
